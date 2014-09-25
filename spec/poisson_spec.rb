@@ -27,6 +27,6 @@ describe Statsample::GLM::Poisson do
   end
 
   context "MLE algorithm" do
-    # TODO: Implement MLE for poisson
+    skip " Implement MLE for poisson"
   end
 end

@@ -1,6 +1,6 @@
 describe Statsample::GLM::Probit do
   context "IRLS algorithm" do
-    # TODO : Implement this!
+    skip "TODO: Implement this!"
   end
 
   context "MLE algorithm" do
